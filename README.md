@@ -8,7 +8,7 @@
 
 ## 注意
 
-#### opencv 版本 opencv-python==4.5.2.54 opencv-contrib-python==4.5.2.544
+#### opencv 版本 必须 4.5.2.54
 
 ## 填写配置文件
 
@@ -16,7 +16,7 @@
 
 ## 安装依赖
 
-`pip install opencv-python==4.5.2.54 opencv-contrib-python==4.5.2.54`
+`pip install pyzbar opencv-python==4.5.2.54 opencv-contrib-python==4.5.2.54`
 
 ### 运行程序
 
